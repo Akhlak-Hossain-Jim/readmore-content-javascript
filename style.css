@@ -1,0 +1,7 @@
+section {
+    margin: auto;
+    max-width: 1000px;
+    padding: 50px;
+    border: solid 2px black;
+    border-radius: 10px;
+}
